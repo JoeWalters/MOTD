@@ -19,9 +19,8 @@ MAX=90
 NAT=1
 ```
 
-This disk warning message will only display if your disk usage exceeds an amount you may set in the script. 
-
-This script will list all interfaces with an IPV4 IP (Excluding loopback) along with your public IP (If NAT=1 in script)
+* This disk warning message will only display if your disk usage exceeds an amount you set in the script (MAX variable)
+* This script will list all interfaces with an IPV4 IP (Excluding loopback) along with your public IP (If NAT=1 in script)
 
 License
 -------
